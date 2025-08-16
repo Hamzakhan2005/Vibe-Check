@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-active-success) ![Made with face-api.js](https://img.shields.io/badge/made%20with-face--api.js-blue)
 
 A fun, interactive web app that uses **face-api.js** to detect faces and read facial expressions in real-time — giving you an instant *vibe check* straight from your webcam!
+
 Link to the App : https://vibe-check-lovat.vercel.app/
 ---
 
